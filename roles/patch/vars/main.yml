@@ -1,0 +1,11 @@
+---
+
+# --------  Credentials  ----------
+slack_user: System patching
+slack_token: 'T015JV8DC31/B016SBM5RB2/e1BiEKa3kd8aXI5vOP5UouLa'
+slack_emoji: ':hammer_and_wrench:'
+slack_channel: '#maintenance'
+
+# ---------  Var init  ------------
+kernelup: null                              # initializing var that keeps the kernel update status
+patches_sum: 0
